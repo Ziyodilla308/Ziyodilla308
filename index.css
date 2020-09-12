@@ -198,6 +198,7 @@ form.sign-up-form{
     height: 41px;
     font-weight: 600;
     font-size: 0.8rem;
+    margin-top: 150px;
 }
 
 .image{
@@ -299,6 +300,7 @@ form.sign-up-form{
     .image{
         width: 200px;
         transition: 0.9s 0.6s ease-in-out;
+        margin-left: -114%;
     }
     .left-panel{
         grid-row: 1 / 2;
