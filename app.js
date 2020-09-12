@@ -11,5 +11,5 @@ sign_in_btn.addEventListener('click', () => {
 });
 
 function button() {
-    windows.location.href="https://ziyodilla308.github.io/Ziyodilla308.io/"
+    windows.location.href="https://ziyodilla308.github.io/Bank.io/"
 };
