@@ -10,6 +10,7 @@ sign_in_btn.addEventListener('click', () => {
     container.classList.remove("sign-up-mode");
 });
 
-function button() {
-    windows.location.href="https://ziyodilla308.github.io/Bank.io/";
+function button_() {
+    console.log("hello");
+    window.location.href="https://ziyodilla308.github.io/Bank.io/";
 };
